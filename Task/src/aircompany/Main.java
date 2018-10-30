@@ -21,10 +21,10 @@ import xml.XmlDomParser;
 public class Main  {
 	public static void main(String[] args) throws NotFullAirCompanyException, ParserConfigurationException, SAXException, IOException {
 
-		//Main.AirplaneTask();
-		//Main.SpeedTask();
-		//Main.StreamTask();
-		//Main.XmlTask();
+		Main.AirplaneTask();
+		Main.SpeedTask();
+		Main.StreamTask();
+		Main.XmlTask();
 		
 	
 	}
